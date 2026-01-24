@@ -1,4 +1,4 @@
-package org.example;
+package org.example.linkedllist;
 
 public class Node {
      int val;

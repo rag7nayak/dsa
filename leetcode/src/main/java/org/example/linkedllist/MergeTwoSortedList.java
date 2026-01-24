@@ -1,4 +1,4 @@
-package org.example;
+package org.example.linkedllist;
 
 public class MergeTwoSortedList {
     private static Node mergeTwoNode(Node headA,Node headB){
